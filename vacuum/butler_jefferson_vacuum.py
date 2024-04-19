@@ -4,7 +4,7 @@ import statistics
 
 OFFSETS = {'north': (0, 1), 'east': (1, 0), 'south': (0, -1), 'west': (-1, 0)}
 
-
+SAFE_GENERATION = True
 def generate_world(width):
     def f():
         r = random.random()
@@ -15,8 +15,10 @@ def generate_world(width):
         else:
             return 'clear'
     world = [[f() for _ in range(width)] for _ in range(width)]
-    while not isValidWorld(world):
-        world = [[f() for _ in range(width)] for _ in range(width)]
+    if (SAFE_GENERATION):
+        while not isValidWorld(world):
+            world = [[f() for _ in range(width)] for _ in range(width)]
+        return world
     return world
 
 
