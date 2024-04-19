@@ -6,4 +6,745 @@
 
 
 Agent                               Dirt Loss   	Actions Loss 
-entire_map_no_memory_actions       146809.53   	806.71      
+entire_map_no_memory_actions       170400.75   	804.09      
+entire_map_no_memory_actions       147264.69   	1298.12     
+neighbors_no_memory_actions        206508.59   	3706.31     
+neighbors_memory_actions           152300.33   	1010.97     
+percept_no_memory                  607388.88   	10218.94    
+percept_memory                     402407.43   	5677.11     
+Total Loss                         1708986.21
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146822.03   	1298.8      
+entire_map_no_memory_actions       177847.42   	1790.11     
+neighbors_no_memory_actions        215312.06   	3146.09     
+neighbors_memory_actions           152267.66   	1005.6      
+percept_no_memory                  597054.91   	9716.73     
+percept_memory                     397969.33   	6987.22     
+Total Loss                         1711217.9600000002
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147393.23   	805.32      
+entire_map_no_memory_actions       146833.15   	806.24      
+neighbors_no_memory_actions        208140.82   	3030.46     
+neighbors_memory_actions           152426.37   	1014.48     
+percept_no_memory                  602759.32   	10138.11    
+percept_memory                     405438.28   	5601.3      
+Total Loss                         1684387.08
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       153169.86   	807.48      
+entire_map_no_memory_actions       147184.02   	809.09      
+neighbors_no_memory_actions        200215.16   	3389.99     
+neighbors_memory_actions           153104.82   	1493.81     
+percept_no_memory                  609734.3    	9952.26     
+percept_memory                     409264.29   	6195.61     
+Total Loss                         1695320.69
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       169968.33   	809.01      
+entire_map_no_memory_actions       146737.56   	1297.2      
+neighbors_no_memory_actions        209552.22   	3061.92     
+neighbors_memory_actions           152275.79   	1015.98     
+percept_no_memory                  590794.03   	10482.41    
+percept_memory                     390207.81   	6138.51     
+Total Loss                         1682340.7700000003
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147041.89   	1301.04     
+entire_map_no_memory_actions       146563.37   	807         
+neighbors_no_memory_actions        198048.08   	3095.78     
+neighbors_memory_actions           152516.1    	1006.14     
+percept_no_memory                  610357.41   	10155.91    
+percept_memory                     401363.67   	5836.29     
+Total Loss                         1678092.6800000002
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       148135.99   	807.94      
+entire_map_no_memory_actions       146943.64   	807.07      
+neighbors_no_memory_actions        200289.72   	3100.36     
+neighbors_memory_actions           152773.25   	1019.17     
+percept_no_memory                  627231.35   	9210.63     
+percept_memory                     402065.78   	5954.81     
+Total Loss                         1698339.7100000002
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146848.85   	806.99      
+entire_map_no_memory_actions       146903.16   	805.86      
+neighbors_no_memory_actions        202461.69   	3000.61     
+neighbors_memory_actions           153080.47   	1019.99     
+percept_no_memory                  608750.16   	9707.65     
+percept_memory                     406024.75   	7019.69     
+Total Loss                         1686429.87
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147758.54   	1298.97     
+entire_map_no_memory_actions       147325.51   	805.92      
+neighbors_no_memory_actions        204135.64   	3029.64     
+neighbors_memory_actions           153024.87   	1013.16     
+percept_no_memory                  596394.13   	10012.8     
+percept_memory                     392705.24   	5833.69     
+Total Loss                         1663338.11
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147214.23   	806.54      
+entire_map_no_memory_actions       165224.9    	1298.03     
+neighbors_no_memory_actions        208515.43   	2831.92     
+neighbors_memory_actions           152610.32   	1502.65     
+percept_no_memory                  616783.4    	10114.26    
+percept_memory                     396381.48   	6387.61     
+Total Loss                         1709670.77
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146677.39   	804.37      
+entire_map_no_memory_actions       147399.82   	1789.76     
+neighbors_no_memory_actions        216413      	3382.92     
+neighbors_memory_actions           155497.22   	1011.82     
+percept_no_memory                  613958.14   	9620.56     
+percept_memory                     413394.21   	5773.65     
+Total Loss                         1715722.86
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       217118.06   	805.66      
+entire_map_no_memory_actions       148528.79   	805.75      
+neighbors_no_memory_actions        212973.93   	3059.51     
+neighbors_memory_actions           151327.73   	1018.09     
+percept_no_memory                  602318.47   	10328.25    
+percept_memory                     388200.18   	6307.5      
+Total Loss                         1742791.92
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147366.97   	807.95      
+entire_map_no_memory_actions       147272.63   	805.08      
+neighbors_no_memory_actions        205911.56   	3131.44     
+neighbors_memory_actions           152155.96   	1001.51     
+percept_no_memory                  598905.2    	9790.69     
+percept_memory                     408156.97   	5443.79     
+Total Loss                         1680749.7499999998
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146816.32   	806.05      
+entire_map_no_memory_actions       208968.77   	805.68      
+neighbors_no_memory_actions        207564.66   	3038.41     
+neighbors_memory_actions           152709.17   	1505.58     
+percept_no_memory                  595298.81   	10764.63    
+percept_memory                     396226.25   	5814.93     
+Total Loss                         1730319.26
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146808.6    	806.15      
+entire_map_no_memory_actions       162800.34   	806.03      
+neighbors_no_memory_actions        206337.42   	3640.51     
+neighbors_memory_actions           152576.95   	1492.03     
+percept_no_memory                  592638.05   	9797.37     
+percept_memory                     394725.24   	6108.32     
+Total Loss                         1678537.0100000002
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       178785.67   	807.17      
+entire_map_no_memory_actions       208354.46   	805.93      
+neighbors_no_memory_actions        207069.62   	3231.66     
+neighbors_memory_actions           152337.38   	1016.94     
+percept_no_memory                  590285.46   	9967.64     
+percept_memory                     413901.56   	6314.68     
+Total Loss                         1772878.1700000002
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147341.48   	805.65      
+entire_map_no_memory_actions       146864.93   	1298.82     
+neighbors_no_memory_actions        201100.41   	3111.57     
+neighbors_memory_actions           153128.43   	1007.13     
+percept_no_memory                  625003.43   	9597.22     
+percept_memory                     404348.04   	5830.43     
+Total Loss                         1699437.5399999998
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146445.49   	804.52      
+entire_map_no_memory_actions       146698.23   	805.43      
+neighbors_no_memory_actions        206145.26   	2902.8      
+neighbors_memory_actions           153397.26   	1035.94     
+percept_no_memory                  617645.63   	9858.15     
+percept_memory                     400352.12   	6338.25     
+Total Loss                         1692429.08
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147353.32   	807.21      
+entire_map_no_memory_actions       147071.83   	805.43      
+neighbors_no_memory_actions        203377.74   	3117.63     
+neighbors_memory_actions           151924.15   	1027.75     
+percept_no_memory                  613885.94   	10021.72    
+percept_memory                     399412.62   	6410.51     
+Total Loss                         1685215.8499999996
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146700.95   	806.41      
+entire_map_no_memory_actions       216328.7    	806.11      
+neighbors_no_memory_actions        210537.49   	2885.45     
+neighbors_memory_actions           152390.9    	1500.76     
+percept_no_memory                  598200.95   	10020.65    
+percept_memory                     384066.75   	5870.07     
+Total Loss                         1730115.1900000002
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147045.15   	1300.83     
+entire_map_no_memory_actions       146786.47   	807.4       
+neighbors_no_memory_actions        204829.74   	3058.69     
+neighbors_memory_actions           153799.77   	1001.27     
+percept_no_memory                  599814.06   	10956.31    
+percept_memory                     387194.33   	5897.41     
+Total Loss                         1662491.43
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       276567.25   	808.12      
+entire_map_no_memory_actions       180395.03   	806.73      
+neighbors_no_memory_actions        201726.99   	2967.1      
+neighbors_memory_actions           152425.59   	1011.63     
+percept_no_memory                  595318.78   	10065.83    
+percept_memory                     405066.24   	6340.83     
+Total Loss                         1833500.1199999999
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146598.97   	804.37      
+entire_map_no_memory_actions       295939.01   	806.69      
+neighbors_no_memory_actions        204010.86   	3219.91     
+neighbors_memory_actions           152784.48   	1482.28     
+percept_no_memory                  588529.71   	9795.39     
+percept_memory                     405889.73   	5701.87     
+Total Loss                         1815563.27
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147147.22   	1297.61     
+entire_map_no_memory_actions       146865.27   	1296.93     
+neighbors_no_memory_actions        214221.44   	2956.51     
+neighbors_memory_actions           151548.25   	1026.76     
+percept_no_memory                  591521.79   	10327.8     
+percept_memory                     397642.88   	6202.61     
+Total Loss                         1672055.07
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146896.52   	807.86      
+entire_map_no_memory_actions       223845.94   	805.47      
+neighbors_no_memory_actions        211278.87   	2935.16     
+neighbors_memory_actions           153215.51   	1012.88     
+percept_no_memory                  602779.34   	10225.86    
+percept_memory                     401100.45   	6478.23     
+Total Loss                         1761382.0899999999
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       175343.86   	1297.41     
+entire_map_no_memory_actions       146663.13   	1788.9      
+neighbors_no_memory_actions        216129.88   	3616.49     
+neighbors_memory_actions           153248.72   	1022.62     
+percept_no_memory                  604835.27   	9774.13     
+percept_memory                     409010.97   	5846.59     
+Total Loss                         1728577.97
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147307.53   	804.98      
+entire_map_no_memory_actions       146571.15   	803.9       
+neighbors_no_memory_actions        209332.03   	3384.87     
+neighbors_memory_actions           152859.4    	1012.74     
+percept_no_memory                  595141.78   	9499.66     
+percept_memory                     401776.48   	6259.88     
+Total Loss                         1674754.4
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       166507.91   	807.92      
+entire_map_no_memory_actions       147405.04   	807.19      
+neighbors_no_memory_actions        208924.48   	3080.92     
+neighbors_memory_actions           152267.67   	1018.94     
+percept_no_memory                  618315.56   	10028.85    
+percept_memory                     431227.14   	5774.23     
+Total Loss                         1746165.85
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146868.87   	806.05      
+entire_map_no_memory_actions       148489.62   	807.01      
+neighbors_no_memory_actions        209239.57   	2826.51     
+neighbors_memory_actions           152072.05   	1021.94     
+percept_no_memory                  595617.39   	10103.56    
+percept_memory                     405112.88   	5657.5      
+Total Loss                         1678622.9500000002
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146928.83   	806.88      
+entire_map_no_memory_actions       148851.03   	1299.98     
+neighbors_no_memory_actions        202958.02   	3205.94     
+neighbors_memory_actions           151849.86   	1019.44     
+percept_no_memory                  623062.12   	9546.48     
+percept_memory                     398868.99   	6169.74     
+Total Loss                         1694567.31
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146473.66   	809.55      
+entire_map_no_memory_actions       147589.18   	806.63      
+neighbors_no_memory_actions        207997.82   	3373.33     
+neighbors_memory_actions           152251.98   	1007.56     
+percept_no_memory                  600443.23   	10443.9     
+percept_memory                     408519.61   	5564.36     
+Total Loss                         1685280.81
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147231.85   	806.63      
+entire_map_no_memory_actions       146905.36   	1790.36     
+neighbors_no_memory_actions        199669.69   	3381.29     
+neighbors_memory_actions           152213.24   	1034.23     
+percept_no_memory                  623509.53   	9659.92     
+percept_memory                     395693.72   	5887.47     
+Total Loss                         1687783.29
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147113.84   	805.05      
+entire_map_no_memory_actions       146546.15   	806.13      
+neighbors_no_memory_actions        241771.29   	3989.34     
+neighbors_memory_actions           152497.41   	1005.02     
+percept_no_memory                  592821.8    	9465.79     
+percept_memory                     408551.88   	5844.65     
+Total Loss                         1711218.35
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       154529.08   	805.95      
+entire_map_no_memory_actions       146997.2    	805.12      
+neighbors_no_memory_actions        239911.49   	4490.92     
+neighbors_memory_actions           152568.2    	1027.51     
+percept_no_memory                  613073.95   	9500.92     
+percept_memory                     413621.7    	5839.94     
+Total Loss                         1743171.98
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       266814.81   	805.78      
+entire_map_no_memory_actions       146857.1    	807.16      
+neighbors_no_memory_actions        240687.86   	4466.68     
+neighbors_memory_actions           153070.89   	1001.94     
+percept_no_memory                  604929.58   	10757.08    
+percept_memory                     395445.7    	5972.4      
+Total Loss                         1831616.98
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       148376.28   	807.38      
+entire_map_no_memory_actions       146895.72   	808.08      
+neighbors_no_memory_actions        246898.34   	4215.62     
+neighbors_memory_actions           151671.73   	1010.12     
+percept_no_memory                  597189.62   	9657.57     
+percept_memory                     399420.63   	5817.67     
+Total Loss                         1712768.76
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146898.38   	806.04      
+entire_map_no_memory_actions       146552.16   	806.06      
+neighbors_no_memory_actions        239867.61   	4070.41     
+neighbors_memory_actions           151850.49   	1021.13     
+percept_no_memory                  604641.21   	10071.6     
+percept_memory                     383911.62   	5622.03     
+Total Loss                         1696118.7399999998
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147269.85   	808.12      
+entire_map_no_memory_actions       146919.09   	805.83      
+neighbors_no_memory_actions        234802.38   	4222.34     
+neighbors_memory_actions           151583.4    	1016        
+percept_no_memory                  611271.56   	10905.7     
+percept_memory                     402773.52   	6178.1      
+Total Loss                         1718555.8900000001
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146448.46   	807.12      
+entire_map_no_memory_actions       147011.2    	1298.7      
+neighbors_no_memory_actions        235338.47   	4304.56     
+neighbors_memory_actions           153002.65   	993.77      
+percept_no_memory                  616398.41   	10301.77    
+percept_memory                     416638.95   	6323.88     
+Total Loss                         1738867.94
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147086.7    	804.64      
+entire_map_no_memory_actions       146956.43   	1298.39     
+neighbors_no_memory_actions        241698.95   	4071.12     
+neighbors_memory_actions           152985.52   	998.11      
+percept_no_memory                  611973.26   	9716.4      
+percept_memory                     420321.62   	5835.94     
+Total Loss                         1743747.08
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147690.05   	1300.34     
+entire_map_no_memory_actions       146814.16   	1299.53     
+neighbors_no_memory_actions        240144.27   	4641.85     
+neighbors_memory_actions           152240.99   	1022.25     
+percept_no_memory                  599061.46   	10351.76    
+percept_memory                     387384.36   	5842.32     
+Total Loss                         1697793.3399999999
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147132.74   	1298.04     
+entire_map_no_memory_actions       172055.94   	1296.03     
+neighbors_no_memory_actions        240496.96   	4112.48     
+neighbors_memory_actions           152164.59   	999.97      
+percept_no_memory                  591297.19   	10317.61    
+percept_memory                     399793.46   	5500.62     
+Total Loss                         1726465.63
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       148750.3    	1297.86     
+entire_map_no_memory_actions       147471.74   	807.76      
+neighbors_no_memory_actions        241758.44   	3982.94     
+neighbors_memory_actions           152707.22   	1006.54     
+percept_no_memory                  599534.99   	9876.96     
+percept_memory                     414669.32   	6240.48     
+Total Loss                         1728104.55
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       151175.66   	806.43      
+entire_map_no_memory_actions       208215.79   	1299.13     
+neighbors_no_memory_actions        237063.97   	4233.27     
+neighbors_memory_actions           151897.98   	1001.78     
+percept_no_memory                  596398.59   	10466.14    
+percept_memory                     419748.17   	5853.68     
+Total Loss                         1788160.5899999999
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147050.19   	806.81      
+entire_map_no_memory_actions       147129.65   	805.67      
+neighbors_no_memory_actions        238303.53   	4219.02     
+neighbors_memory_actions           152893.31   	1023.32     
+percept_no_memory                  597774.24   	10948.42    
+percept_memory                     390897.42   	6110.4      
+Total Loss                         1697961.9800000002
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147125.53   	807.55      
+entire_map_no_memory_actions       147660      	1790.07     
+neighbors_no_memory_actions        240779.94   	4245.51     
+neighbors_memory_actions           153819.61   	990.14      
+percept_no_memory                  590580.44   	10310.5     
+percept_memory                     392954.42   	6125.92     
+Total Loss                         1697189.63
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147291.07   	805.61      
+entire_map_no_memory_actions       147425.4    	806.9       
+neighbors_no_memory_actions        246091.58   	4979.88     
+neighbors_memory_actions           152306.89   	1003.81     
+percept_no_memory                  614350.45   	9529.92     
+percept_memory                     402366.58   	5711.37     
+Total Loss                         1732669.4599999997
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147124.21   	1298.2      
+entire_map_no_memory_actions       257047.01   	807.36      
+neighbors_no_memory_actions        237804.21   	4117.89     
+neighbors_memory_actions           151710.08   	1505.41     
+percept_no_memory                  601136.84   	10222.49    
+percept_memory                     403621.1    	6400.39     
+Total Loss                         1822795.19
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146649.32   	807.59      
+entire_map_no_memory_actions       147140.38   	808         
+neighbors_no_memory_actions        244508.34   	4277.69     
+neighbors_memory_actions           152633.99   	1026.92     
+percept_no_memory                  616867.69   	9633.15     
+percept_memory                     398113.75   	6284.46     
+Total Loss                         1728751.28
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       147240.02   	808.1       
+entire_map_no_memory_actions       159988.07   	806.46      
+neighbors_no_memory_actions        242572.06   	4311.86     
+neighbors_memory_actions           152491.93   	1023.39     
+percept_no_memory                  587191.36   	10167       
+percept_memory                     412157.18   	6102.38     
+Total Loss                         1724859.81

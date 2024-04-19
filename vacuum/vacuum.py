@@ -26,7 +26,7 @@ def isValidWorld(world):
     for x in range(width):
         for y in range(height):
             if world[x][y] == 'dirt':
-                if not(
+                if not (
                     (y + 1 < height and world[x][y + 1] == 'dirt') or
                     (x + 1 < width and world[x + 1][y] == 'dirt') or
                     (y - 1 >= 0 and world[x][y - 1] == 'dirt') or

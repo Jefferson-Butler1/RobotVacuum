@@ -284,19 +284,24 @@ def neighbors_no_memory_actions(percept, map, agent):
 	x, y = agent
 
 	# if adjacent square is dirty, clean it
+	local_directions = []
 	if y < len(map[0]) - 1:  # North
 		if map[x][y + 1] == 'dirt':
-			return 'north'
+			local_directions.append('north')
 	if x < len(map) - 1:
 		if map[x + 1][y] == 'dirt':
-			return 'east'
+			local_directions.append('east')
 	if y > 0:
 		if map[x][y - 1] == 'dirt':
-			return 'south'
+			local_directions.append('south')
 	if x > 0:
 		if map[x - 1][y] == 'dirt':
-			return 'west'
+			local_directions.append('west')
+	if len(local_directions) > 0:
+		return random.choice(local_directions)
+
 	# if no adjacent square is dirty, move to a random square
+	global directions
 	return random.choice(directions)
 
 
@@ -604,8 +609,8 @@ def run_all():
 
 	print(f'{"Agent": <35} {"Dirt Loss": <12}\t{"Actions Loss": <12} ')
 	for agent in agents:
-		loss_dirt = many_runs(20, 50000, 100, agent, 'dirt')
-		loss_actions = many_runs(20, 50000, 100, agent, 'actions')
+		loss_dirt = many_runs(20, 50000, 1000, agent, 'dirt')
+		loss_actions = many_runs(20, 50000, 1000, agent, 'actions')
 
 		print(f'{agent.__name__: <35}{loss_dirt: <12}\t{loss_actions: <12}')
 		cumulative_loss += loss_dirt + loss_actions
