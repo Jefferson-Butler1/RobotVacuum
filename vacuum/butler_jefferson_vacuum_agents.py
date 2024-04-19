@@ -12,7 +12,7 @@ following parameters for each agent: map_width=20, max_steps=50000 runs=100.
 '''
 import time
 
-from vacuum import *
+from butler_jefferson_vacuum import *
 
 directions = ['north', 'south', 'east', 'west']
 
@@ -616,5 +616,5 @@ def run_all():
 		cumulative_loss += loss_dirt + loss_actions
 	print(f'{"Total Loss": <35}{cumulative_loss}')
 
-
+print("\n\n\n New Run\n\n\n")
 run_all()
