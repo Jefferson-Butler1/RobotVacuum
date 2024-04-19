@@ -1,0 +1,9 @@
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       146809.53   	806.71      

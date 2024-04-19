@@ -1,0 +1,15 @@
+
+
+
+ New Run
+
+
+
+Agent                               Dirt Loss   	Actions Loss 
+entire_map_no_memory_actions       152472.8    	807.05      
+entire_map_no_memory_actions       158955.49   	804.9       
+neighbors_no_memory_actions        205714.48   	3330.08     
+neighbors_memory_actions           151395.21   	1011.53     
+percept_no_memory                  595051.72   	9663.29     
+percept_memory                     414585.75   	5713.74     
+Total Loss                         1699506.04

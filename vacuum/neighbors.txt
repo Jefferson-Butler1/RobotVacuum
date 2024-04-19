@@ -1,0 +1,9 @@
+ 
+Agent                                                        Dirt Loss	Actions Loss
+neighbors_no_memory_actions                                 205151.03, 	3003.89
+neighbors_no_memory_actions                                 199773.72, 	2895.92
+neighbors_no_memory_actions                                 210952.95, 	2942.79
+neighbors_no_memory_actions                                 196661.04, 	2980.35
+neighbors_no_memory_actions                                 210281.35, 	3130.99
+neighbors_no_memory_actions                                 216405.38, 	2939.92
+neighbors_memory_actions                                    152545.01, 	1066.52
